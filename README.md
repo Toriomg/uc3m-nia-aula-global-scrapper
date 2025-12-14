@@ -1,6 +1,9 @@
-# UC3M Aula Global Scraper
+# **UC3M Aula Global Scraper**
 
-Este script permite extraer un listado de alumnos (Nombre, NIA y Correo) desde la lista de participantes de una asignatura en Aula Global (Moodle).
+Este script permite extraer un listado de alumnos (Nombre, NIA y Correo) desde la lista de participantes de una asignatura en Aula Global (Moodle). 
+
+## Función
+Esta pensado para **alumnos**, evita la tediosa tarea de buscar a una persona por su NIA en el listado de 'Participantes' de una asignatura en Aula Global.
 
 ## Cómo usarlo
 
