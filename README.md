@@ -5,7 +5,7 @@
 >
 > La normativa de protección de datos prohíbe comunicar o difundir esta información fuera del grupo de clase, incluyendo su redistribución en otros contextos o canales ajenos.
 >
-> Cualquier uso indebido por parte de terceros podría constituir una vulneración de la confidencialidad, y compartir los datos generados sin tener en cuenta estos riesgos puede acarrear >responsabilidades.
+> Cualquier uso indebido por parte de terceros podría constituir una vulneración de la confidencialidad, y compartir los datos generados sin tener en cuenta estos riesgos puede acarrear responsabilidades.
 
 Este script permite extraer un listado de alumnos (Nombre, NIA y Correo) desde la lista de participantes de una asignatura en Aula Global (Moodle). 
 
